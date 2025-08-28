@@ -72,7 +72,7 @@ Includes:
 
 ## 🔗 Colab Access
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marhum456/data-analysis-portfolio/blob/main/climate-change-sentiment-analysis/Sentiment-Analysis-Using-TextBlob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marhum456/colab-work/blob/main/sentiment-analysis-with-textblob/Sentiment-Analysis-Using-TextBlob.ipynb)
 
 
 ## 📁 Dataset Format
