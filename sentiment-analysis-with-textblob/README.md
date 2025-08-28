@@ -72,7 +72,7 @@ Includes:
 
 ## 🔗 Colab Access
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/colab-work/blob/main/sentiment-analysis-extended/Sentiment_Analysis_Extended.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marhum456/colab-work/blob/main/climate-change-sentiment-analysis/Sentiment-Analysis-Using-TextBlob.ipynb)
 
 ---
 
